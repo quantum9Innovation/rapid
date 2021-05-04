@@ -110,3 +110,6 @@ is a beta or pre-release of a package with MINOR version `b` and PATCH version `
 a.b.c[.d][—-X][-X][+X] (a > 0)
 ```
 is a stable version if `d` is not provided. Always, `a` is the MAJOR version, `b` is the MINOR version, and `c` is the PATCH version. If specified, `d` is the UPDATE version and the package is unstable. If specified, `X` is the build metadata.
+
+## Putting it into Practice
+Please see [practice.md](practice.md) for implementation details and different variants.

@@ -23,4 +23,4 @@ So how do we fix these problems? We need a versioning system that addresses the 
 - Correctly determines whether a bugfix is critical or not and which marker should be used to address it
 - Does not overuse one marker over other markers
 
-And from this, rapid versioning was born. To understand how rapid versioning works and how it solves this problem, continue reading [here](DEFINITION.md).
+And from this, rapid versioning was born. To understand how rapid versioning works and how it solves this problem, continue reading [here](definition.md).
